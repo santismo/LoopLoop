@@ -59,7 +59,7 @@ Then restart Logic Pro or rescan Audio Units in Logic's Plug-in Manager.
 LoopLoop is currently configured as an Audio Unit audio effect:
 
 - Product name: `looploop`
-- Bundle ID: `com.santiagotrejo.looploop`
+- Bundle ID: `com.santismo.looploop`
 - AU type: `kAudioUnitType_Effect`
 - MIDI input enabled
 - MIDI output disabled

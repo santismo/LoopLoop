@@ -11,9 +11,9 @@ endif()
 add_subdirectory("${JUCE_DIR}" JUCE-build EXCLUDE_FROM_ALL)
 
 juce_add_plugin(LogicPerformanceLooper
-    COMPANY_NAME "Santiago Trejo"
-    BUNDLE_ID "com.santiagotrejo.looploop"
-    PLUGIN_MANUFACTURER_CODE "StTr"
+    COMPANY_NAME "santismo"
+    BUNDLE_ID "com.santismo.looploop"
+    PLUGIN_MANUFACTURER_CODE "Sntm"
     PLUGIN_CODE "LgLp"
     FORMATS AU
     PRODUCT_NAME "looploop"
