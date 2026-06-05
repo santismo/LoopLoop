@@ -1,0 +1,13 @@
+.DS_Store
+build/
+build-*/
+cmake-build-*/
+CMakeUserPresets.json
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+*.xcuserstate
+*.component
+*.vst3
+*.aaxplugin
+*.appex
